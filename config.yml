@@ -4,5 +4,12 @@ glass_breaker_group:
   - root
 
 freezing_dates:
-  from:  2025-07-23
-  to: 2025-07-25
+  End of the Year:
+    from:  2025-12-24
+    to: 2025-01-03
+  Carnival:
+    from: 2025-03-01
+    to: 2025-03-01
+  black friday:
+    from: 2025-11-20
+    to: 2025-11-30
