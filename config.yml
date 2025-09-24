@@ -1,0 +1,7 @@
+glass_breaker_group:
+  - vitor
+  - root
+
+freezing_dates:
+  from:  2025-27-23
+  to: 2025-07-25
