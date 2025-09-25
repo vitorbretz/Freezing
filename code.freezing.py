@@ -43,7 +43,6 @@ def main():
         sys.exit(0)
     else:
         for period, date in freezing_dates.items():
-
             date_from = date.get("from")
             date_to = date.get("to")
             logging.info(f"Validating period {period} that goes from {date_from} to {date_to}")
