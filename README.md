@@ -1,4 +1,4 @@
-🧊 Code Freeze Checker com GitLab
+🧊  **Code Freeze Checker com GitLab**
 
 Este projeto implementa um sistema de controle de deploys em períodos de congelamento (freezing dates) integrado ao GitLab.
 
@@ -11,7 +11,7 @@ Períodos de bloqueio (como Black Friday, Carnaval, fim de ano etc.), durante os
 Se um usuário que não faz parte do grupo liberado tentar realizar uma ação durante uma data de bloqueio, o processo é encerrado com erro.
 
 
-⚙️ Como Funciona
+⚙️  **Como Funciona**
 
 O script main.py:
 
@@ -55,7 +55,7 @@ freezing_dates:
     from: 2025-09-23
     to: 2025-09-29
 
-🚀 Executando o Projeto
+🚀 **Executando o Projeto**
 1. Subir o ambiente com GitLab + Runner
 docker-compose up -d
 
